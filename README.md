@@ -1,6 +1,6 @@
 # ProjectBankAccount
 
-Descrição do Projeto
+Descrição do Projeto:
 Este projeto em Java implementa um sistema simples de gerenciamento de contas bancárias com foco em tratamento de exceções personalizadas e uso de enums para categorização de tipos de conta. O programa permite a criação de contas com diferentes tipos (BRONZE, SILVER, GOLD), cada uma com seu desconto associado, e realiza operações básicas, como depósito e saque, respeitando limites e regras definidas.
 
 O fluxo principal inclui:
